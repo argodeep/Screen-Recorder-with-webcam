@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/argodeep/static/css/main.3724f32b.chunk.css",
-    "main.js": "/argodeep/static/js/main.c3a4cce4.chunk.js",
-    "main.js.map": "/argodeep/static/js/main.c3a4cce4.chunk.js.map",
-    "runtime-main.js": "/argodeep/static/js/runtime-main.142df3c4.js",
-    "runtime-main.js.map": "/argodeep/static/js/runtime-main.142df3c4.js.map",
-    "static/js/2.2a1d6032.chunk.js": "/argodeep/static/js/2.2a1d6032.chunk.js",
-    "static/js/2.2a1d6032.chunk.js.map": "/argodeep/static/js/2.2a1d6032.chunk.js.map",
-    "index.html": "/argodeep/index.html",
-    "precache-manifest.a1bcdf587f71f9448ceae88b0e02caf1.js": "/argodeep/precache-manifest.a1bcdf587f71f9448ceae88b0e02caf1.js",
-    "service-worker.js": "/argodeep/service-worker.js",
-    "static/css/main.3724f32b.chunk.css.map": "/argodeep/static/css/main.3724f32b.chunk.css.map",
-    "static/js/2.2a1d6032.chunk.js.LICENSE.txt": "/argodeep/static/js/2.2a1d6032.chunk.js.LICENSE.txt",
-    "static/media/pause.svg": "/argodeep/static/media/pause.2e6b892b.svg",
-    "static/media/play.svg": "/argodeep/static/media/play.a9759291.svg",
-    "static/media/stop.svg": "/argodeep/static/media/stop.664d473c.svg"
+    "main.css": "./static/css/main.3724f32b.chunk.css",
+    "main.js": "./static/js/main.ef19b59e.chunk.js",
+    "main.js.map": "./static/js/main.ef19b59e.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.24ee5ed0.js",
+    "runtime-main.js.map": "./static/js/runtime-main.24ee5ed0.js.map",
+    "static/js/2.2a1d6032.chunk.js": "./static/js/2.2a1d6032.chunk.js",
+    "static/js/2.2a1d6032.chunk.js.map": "./static/js/2.2a1d6032.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.31721c73fc3580f72484ecbf0f586d01.js": "./precache-manifest.31721c73fc3580f72484ecbf0f586d01.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/main.3724f32b.chunk.css.map": "./static/css/main.3724f32b.chunk.css.map",
+    "static/js/2.2a1d6032.chunk.js.LICENSE.txt": "./static/js/2.2a1d6032.chunk.js.LICENSE.txt",
+    "static/media/pause.svg": "./static/media/pause.2e6b892b.svg",
+    "static/media/play.svg": "./static/media/play.a9759291.svg",
+    "static/media/stop.svg": "./static/media/stop.664d473c.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.142df3c4.js",
+    "static/js/runtime-main.24ee5ed0.js",
     "static/js/2.2a1d6032.chunk.js",
     "static/css/main.3724f32b.chunk.css",
-    "static/js/main.c3a4cce4.chunk.js"
+    "static/js/main.ef19b59e.chunk.js"
   ]
 }

@@ -9,7 +9,7 @@
     "directory": "https://github.com/argodeep/Yotube-Tutorial-Maker.git",
     "type": "git"
   },
-  "homepage": "https://github.com/argodeep/Yotube-Tutorial-Maker/",
+  "homepage": "./",
   "private": true,
   "dependencies": {
     "multistreamsmixer": "^1.2.2",
