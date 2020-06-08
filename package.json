@@ -6,10 +6,10 @@
     "url": "https://github.com/argodeep"
   },
   "repository": {
-    "directory": "https://github.com/argodeep",
+    "directory": "https://github.com/argodeep/Yotube-Tutorial-Maker.git",
     "type": "git"
   },
-  "homepage": "https://github.com/argodeep",
+  "homepage": "https://github.com/argodeep/Yotube-Tutorial-Maker/",
   "private": true,
   "dependencies": {
     "multistreamsmixer": "^1.2.2",
