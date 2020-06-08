@@ -1,14 +1,26 @@
 {
   "name": "youtube-tutorial-maker",
-  "version": "0.1.0",
+  "version": "1.0.0",
+  "author": {
+    "name": "Arghyadeep",
+    "url": "https://github.com/argodeep"
+  },
+  "repository": {
+    "directory": "https://github.com/argodeep",
+    "type": "git"
+  },
+  "homepage": "https://github.com/argodeep",
   "private": true,
   "dependencies": {
-    "@testing-library/jest-dom": "^4.2.4",
-    "@testing-library/react": "^9.3.2",
-    "@testing-library/user-event": "^7.1.2",
+    "multistreamsmixer": "^1.2.2",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1"
+  },
+  "devDependencies": {
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.3.2",
+    "@testing-library/user-event": "^7.1.2"
   },
   "scripts": {
     "start": "react-scripts start",

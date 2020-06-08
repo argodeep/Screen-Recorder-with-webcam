@@ -6861,6 +6861,11 @@ multicast-dns@^6.0.1:
     dns-packet "^1.3.1"
     thunky "^1.0.2"
 
+multistreamsmixer@^1.2.2:
+  version "1.2.2"
+  resolved "https://registry.yarnpkg.com/multistreamsmixer/-/multistreamsmixer-1.2.2.tgz#9a3c78a50301cfd3f3e881845acf8d41386ffcda"
+  integrity sha512-5UGMODV/vDFLs8CaYEgFgo2sg+kI6hzXy4e02C8nvqfp7hfCikzAC65p+nNPVRqvBhtMoA2HwAz6qN8iMvoaoA==
+
 mute-stream@0.0.8:
   version "0.0.8"
   resolved "https://registry.yarnpkg.com/mute-stream/-/mute-stream-0.0.8.tgz#1630c42b2251ff81e2a283de96a5497ea92e5e0d"
