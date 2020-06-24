@@ -212,7 +212,7 @@ function App() {
         videoPreview = document.querySelector("video");
         videoPreview.srcObject = mixer.getMixedStream();
         recordedBlobs = [];
-        let options = { mimeType: "video/mp4;codecs=vp9,opus" };
+        let options = { mimeType: "video/webm;codecs=vp9,opus" };
         if (!MediaRecorder.isTypeSupported(options.mimeType)) {
           console.error(`${options.mimeType} is not supported`);
           options = { mimeType: "video/webm;codecs=vp8,opus" };
@@ -346,12 +346,12 @@ function App() {
   }
 
   async function download() {
-    const blob = new Blob(recordedBlobs, { type: "video/mp4" });
+    const blob = new Blob(recordedBlobs, { type: "video/webm" });
     const url = window.URL.createObjectURL(blob);
     const a = document.createElement("a");
     a.style.display = "none";
     a.href = url;
-    a.download = new Date().getTime() + ".mp4";
+    a.download = new Date().getTime() + ".webm";
     document.body.appendChild(a);
     a.click();
     setTimeout(() => {
